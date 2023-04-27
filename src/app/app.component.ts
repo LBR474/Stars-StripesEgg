@@ -12,6 +12,6 @@ import { NgtCanvas } from 'angular-three';
 export class AppComponent {
   readonly Scene = Scene;
 
-  //extra comment
+  //extra comment for git testing purp
   
 }

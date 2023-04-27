@@ -30,5 +30,5 @@ throw new Error('Method not implemented.');
   readonly model$ = injectNgtLoader(
     () => GLTFLoader,
     '../assets/vitesse_sphere_2.glb'
-  ).pipe(map((model) => model.scene));
+  ).pipe(map((model: { scene: any; }) => model.scene));
 }
