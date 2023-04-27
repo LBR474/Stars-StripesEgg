@@ -42,3 +42,6 @@ testem.log
 Thumbs.db
 # my ignored files
 *.blend
+
+#my ignores
+VitesseVent/
