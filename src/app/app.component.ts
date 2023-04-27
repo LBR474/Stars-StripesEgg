@@ -11,4 +11,7 @@ import { NgtCanvas } from 'angular-three';
 })
 export class AppComponent {
   readonly Scene = Scene;
+
+  //extra comment
+  
 }
